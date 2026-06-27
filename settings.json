@@ -1,12 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "HeroPVP_BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "HeroPVPS1.play.hosting",
+    "port": "10610",
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,7 +33,7 @@
       "messages": [
         "I'm a regular player",
         "Subscribe to HeroPVP's YT Channel!",
-        "Join HeroPVP Discord fast!"
+        "Join HeroPVP Discord fast!",
         "Practice PVP or play in the SMP why are u reading my messages" 
       ]
     },
