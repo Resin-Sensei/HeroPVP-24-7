@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "HeroPVPS1.play.hosting",
-    "port": "10610",
+    "port": "48845",
     "version": "1.21.11",
     "try-creative": false
   },
